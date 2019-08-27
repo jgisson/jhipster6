@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "jg.tests.jhipster6",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "jhipster6",
+    "packageName": "jg.tests.jhipster6",
+    "packageFolder": "jg/tests/jhipster6",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Njk5YTY5N2ZmOGY0MTQ5ZWM4OTJhODdjY2Y5YmIzZmRkOGQ2ZTJkZTc2OTEyYThhZGUyODgxMzgyNzI1OTU0ODg4NWY4MzNmODhlOTI0YjRjZjRiOTZlMmE4MjI5NGNjZmJiZDhhM2EyMzlmYzk0MGIxNGJiNjJkMThjOGJjMjY=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": ["cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": []
+  }
+}
